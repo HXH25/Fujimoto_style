@@ -3,4 +3,4 @@
 
 内容：藤本树风格人物生成(LoRA)
 
-.safetensors文件在release
+.safetensors文件请查看Tag
